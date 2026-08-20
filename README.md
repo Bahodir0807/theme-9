@@ -1,3 +1,3 @@
 # Project
 
-[`https://uzum.uz`](uzum.uz)
+[`uzum.uz`](https://uzum.uz)
